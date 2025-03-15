@@ -6,7 +6,7 @@
  CST78XX-V1.0.pdf firmware upgrade how-to
 */
 
-#include "cst816t.h"
+#include "cst816T.h"
 #include <stdint.h>
 
 #define CST816T_ADDRESS 0x15
